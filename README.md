@@ -1,24 +1,29 @@
-# Order Sales Data Analysis and Web Application
+# Exploring a Superstore's Sales Data
+
 
 ## Overview
-The Order Sales Data Analysis and Web Application project is dedicated to the comprehensive analysis and modeling of order sales data. This project utilizes a dataset sourced from Kaggle as the foundation for building a MySQL database and a web application. Our goal is to delve into the dynamics of customer behavior, regional trends, and product categories by leveraging this dataset. We aim to extract valuable insights into sales patterns and customer preferences, demonstrating the practical application of database structures and web development within the context of a fictional order sales dataset. This initiative offers a hands-on learning experience in data management, modeling, and web application development in an open dataset environment.
 
-## Key Objectives
-- Import and validate the dataset for analysis.
-- Perform exploratory data analysis (EDA) to identify patterns and trends.
-- Analyze sales, profit, and customer segments.
-- Investigate top-selling product categories.
-- Explore preferred shipping modes for customer segments.
-- Identify profitable regions and cities.
-- Examine sales and profit trends over time.
-- Summarize key insights for business strategies.
+The "Exploring a Superstore's Sales Data" project involves a comprehensive analysis of a superstore's sales dataset. This dataset, originally sourced from [Tableau](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls), offers insights into the sales of a wide variety of products by a large superstore. The analysis aims to uncover valuable information about customer behavior, regional trends, and product categories. By examining this dataset, we gain a deeper understanding of the dynamics of the superstore's operations and identify key areas for potential business growth and optimization. This project serves as a hands-on exploration of data analysis and visualization within the context of a publicly available dataset.
 
-## Tech Stack
-- Node.js
-- Express.js
-- MySQL
-- HTML
-- CSS
+## Project Highlights
 
-## Data Source:
-- Sample Superstore sales data from Tableau: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+- **Data Import and Validation:** Imported and validated the dataset, ensuring data consistency and suitability for analysis.
+- **Exploratory Data Analysis (EDA):** Performed EDA to find patterns and trends in the dataset.
+- **Analysis of Numerical and Categorical Quantities:** Analyzed numerical and categorical quantities, including sales, profit, and customer segments.
+- **Product Categories:** Investigated the most profitable and high-selling sub-categories of products.
+- **Customer Segments:** Explored the preferred ship modes for different customer segments.
+- **Regional Insights:** Identified the most profitable regions and cities.
+- **Time Series Analysis:** Examined the trend of sales and profit over the years.
+- **Key Findings:** Concluded key findings and provided insights for potential business strategies based on the data analysis.
+
+## Repository
+
+Find the Jupyter Notebook with the code for this project in the [GitHub Repository](https://github.com/gpower-crypto/Superstore-Sales-Data-analysis).
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
